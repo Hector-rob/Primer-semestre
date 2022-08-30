@@ -1,0 +1,7 @@
+100 Libro 120
+101 Pluma 13
+102 Lapiz 10
+103 Borrador 8
+104 Celular 250
+105 Camisa 300
+106 Gorra 220
